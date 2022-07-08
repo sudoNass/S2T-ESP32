@@ -1,4 +1,4 @@
-# Speech-To-Text-
+# Speech-To-Text
 A speech to text website using JavaScript , html &amp; css
 
 ## Simple Speech to text website that supports two languages:
