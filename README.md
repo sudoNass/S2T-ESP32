@@ -20,7 +20,12 @@ A speech to text website using JavaScript , html &amp; css
 i'm going to write algorithm for running wasdom ESP32.
 So here i'm going to apply some steps to run wasdom ESP32 with Arduino.
 
+## FlowChart
 
+![Flowcharts](https://user-images.githubusercontent.com/107954336/179361210-bed20692-c2a1-4ff2-963c-d4e4ae484278.png)
+
+
+## Steps
 
 ### First step
 
