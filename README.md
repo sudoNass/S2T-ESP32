@@ -7,7 +7,7 @@ A speech to text website using JavaScript , html &amp; css
 - Arabic
 
 
-##### you can visit my website by clicking [here!](https://sqox.tiiny.site/).
+##### you can visit my website by clicking [here!](https://sqox.000webhostapp.com/).
 >it's only working in Google chrome, because Chrome currently takes the audio and sends it to Google’s servers to perform the transcription. This is why speech recognition is currently only supported in Chrome only.and some Chromium based browsers. like Microsoft Edge.
 
 
